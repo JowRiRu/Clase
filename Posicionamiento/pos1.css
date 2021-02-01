@@ -1,0 +1,13 @@
+div#sector1 div.bc{
+    width: 33%;
+    height: 200px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+div#secotor1 div.aa{
+    width: 66.66%;
+    height: 200px;
+    background-color: white;
+    border: 1px solid black;
+}

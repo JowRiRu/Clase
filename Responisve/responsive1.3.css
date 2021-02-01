@@ -1,0 +1,16 @@
+@media (min-width: 801px) {
+    #cajaA{
+        background-color: lightgray;
+        border: none;
+        width: 20%;
+    }
+    #cajaB{
+        background-color: lightgray;
+        width: 20%;
+    }
+    #cajaC{
+        background-color: lightgray;
+        float: right;
+        width: 58%;
+    }
+}

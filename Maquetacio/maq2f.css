@@ -1,0 +1,64 @@
+body{
+    background-color: lightcyan;
+}
+
+header{
+    margin-left: 50%;
+    width: 50%;
+    height: 130px;
+    border: 1px solid black;
+}
+
+section#navegacion{
+    position: static;
+    clear: both;
+    width: 15%;
+    background-color: khaki;
+}
+
+section#contenido{
+    float: right;
+    position: static;
+    width: 80%;
+    background-color: lime;
+}
+
+section#contenido #caja1{
+    background-color: mediumaquamarine;
+    width: 100%;
+}
+
+section#contenido #cajas{
+    float: left;
+}
+
+section#contenido #caja2{
+    float: left;
+    background-color: purple;
+    width: 50%;
+}
+
+section#contenido #caja3{
+    margin-top: 0%;
+    float: right;
+    background-color: bisque;
+    width: 25%;
+}
+section#contenido #caja4{
+    margin: auto;
+    float: right;
+    width: 25%;
+    background-color: chocolate;
+}
+section#pub{
+    float: right;
+    position: absolute;
+    width: 15%;
+    background-color: cornflowerblue;
+}
+section#copyright{
+    float: left;
+    position: static;
+    background-color: indianred;
+    width: 66%;
+}

@@ -1,0 +1,51 @@
+@media(min-width: 400px){
+    #cajaA{
+        background-color: lightgray;
+    }
+    #cajaB{
+        background-color: lightgray;
+    }
+    #cajaC{
+        background-color: lightgray;
+    }
+}
+
+@media (min-width: 401px) and (max-width:800px){
+    #cajaA{
+        background-color: darkgrey;
+        border-right: 10px solid white;
+        float: left;
+        width: 30%;
+    }
+    
+    #cajaB{
+        background-color: darkgrey;
+        float: left;
+        width: 30%;
+    }
+
+    #cajaC{
+        background-color: darkgrey;
+        float: left;
+        width: 60%;
+    }
+}
+
+@media (min-width: 801px) {
+    #cajaA{
+        background-color: lightgray;
+        float: left;
+        width: 20%;
+    }
+    #cajaB{
+        background-color: lightgray;
+        float: left;
+        border-right: 10px solid white;
+        width: 20%;
+    }
+    #cajaC{
+        background-color: lightgray;
+        float: left;
+        width: 58%;
+    }
+}

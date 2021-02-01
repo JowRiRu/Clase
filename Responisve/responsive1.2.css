@@ -1,0 +1,20 @@
+@media (min-width: 400px){
+    #cajaA{
+        background-color: darkgrey;
+        border-right: 10px solid white;
+        float: left;
+        width: 30%;
+    }
+    
+    #cajaB{
+        background-color: darkgrey;
+        float: left;
+        width: 30%;
+    }
+
+    #cajaC{
+        background-color: darkgrey;
+        float: left;
+        width: 60%;
+    }
+}
