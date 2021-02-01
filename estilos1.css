@@ -1,0 +1,12 @@
+ul.nada{
+    list-style-type: none;
+}
+ul.cuadrado{
+    list-style-type: square;
+}
+ul.romano{
+    list-style-type: lower-roman;
+}
+ul.griego{
+    list-style: lower-greek;
+}

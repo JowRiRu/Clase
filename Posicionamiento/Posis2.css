@@ -1,0 +1,48 @@
+div#enlaces div#aa{
+    margin: auto;
+    float: left;
+    position: fixed;
+    width: 25%;
+    height: 200px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+div#enlaces div#ab{
+    float:right;
+    width: 75%;
+    height: 200px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+}
+
+div#central div#cc{
+    margin-top: 50px;
+    float: left;
+    width: 50%;
+    height: 200px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+}
+
+div#central div#cd{
+    margin-top: 50px;
+    float: right;
+    width: 20%;
+    height: 200px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+}
+
+div#final div#si{
+    margin-top: 750px;
+    float: right;
+    width: 50%;
+    height: 200px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+}
