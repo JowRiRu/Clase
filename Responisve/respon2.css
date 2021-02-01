@@ -1,0 +1,61 @@
+@media (max-width: 800px){
+    #cajaa{
+        float: left;
+        width: 50%;
+        height: 20%;
+        background-color: blanchedalmond;
+        border: 2px solid black;
+    }
+    #cajab{
+        float: left;
+        width: 50%;
+        height: 20%;
+        background-color: blanchedalmond;
+        border: 2px solid black;
+    }
+    #cajac{
+        clear: both;
+        float: left;
+        width: 25%;
+        height: 40%;
+        background-color: blanchedalmond;
+        border: 2px solid black;
+    }
+    #cajad{
+        float: left;
+        width: 24%;
+        height: 40%;
+        background-color: blanchedalmond;
+        border: 2px solid black;
+    }
+}
+@media(min-width: 801px){
+    #cajaa{
+        float: left;
+        width: 25%;
+        height: 40%;
+        background-color: cadetblue;
+        border: 2px solid black;
+    }
+    #cajab{
+        float: left;
+        width: 25%;
+        height: 40%;
+        background-color: cadetblue;
+        border: 2px solid black;
+    }
+    #cajac{
+        float: left;
+        width: 50%;
+        height: 20%;
+        background-color: cadetblue;
+        border: 2px solid black;
+    }
+    #cajad{
+        float: left;
+        width: 50%;
+        height: 20%;
+        background-color: cadetblue;
+        border: 2px solid black;
+    }
+}
