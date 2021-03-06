@@ -1,2 +1,1 @@
-console.log({"username": "Ryan", 
-"score": 70.4})
+var name = ('NumeroUno')
